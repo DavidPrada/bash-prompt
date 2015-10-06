@@ -12,7 +12,7 @@ Forked from: https://github.com/magicmonty/bash-git-prompt
 - Red for root, green for normal users
 - cd includes ls (only in interactive prompts)
 - git information (only in git folders)
-- Red ❌ if the last terminal command fails
+- Red **x** if the last terminal command fails
 
 ##Installation
 ```
