@@ -7,6 +7,7 @@ Forked from: https://github.com/magicmonty/bash-git-prompt
 ![alt tag](https://raw.github.com/DavidPrada/bash-prompt/master/bash-prompt.png)
 
 ##Features
+- Terminal title displays username@hostname
 - Time
 - Red for root, green for normal users
 - cd includes ls (only in interactive prompts)
